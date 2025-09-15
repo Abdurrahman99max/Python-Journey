@@ -1,0 +1,7 @@
+1. Bread
+2. Egg
+3. Fish
+4. Rice
+5. Beans
+6. Milk
+7. Butter
